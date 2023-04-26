@@ -1,9 +1,6 @@
 
 
-import veterinaria.Veterinaria;
-import veterinaria.Animal;
-import veterinaria.Perro;
-import veterinaria.Gato;
+import veterinaria.*;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
 package veterinaria;
 //import veterinaria.Animal; // Descomentar esta linea si Animal esta en otro paquete
 
+//import nada.nada.Animal;
+
 // Clase hija gatos
 public class Gato extends Animal {
     // Atributo especifico

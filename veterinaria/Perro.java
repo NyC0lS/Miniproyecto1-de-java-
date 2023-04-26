@@ -1,5 +1,8 @@
 
 package veterinaria;
+
+//import nada.nada.Animal;
+
 // Clase hija Perro
 public class Perro extends Animal {
     // Atributo específico
